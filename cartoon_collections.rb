@@ -25,10 +25,10 @@ def find_the_cheese(arr)
 
 arr.each do |i|
   if i.include?([cheese_types])
-    puts i 
-  else 
-    puts nil 
+    puts i
+  else
+    puts nil
   end
-end 
-  
+end
+
 end
