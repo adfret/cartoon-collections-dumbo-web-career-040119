@@ -27,7 +27,7 @@ arr.each do |i|
   if i.include?([cheese_types])
     puts i.to_s
     break
-  else
+  elsif !i.include?([cheese_types])
     puts nil
   end
 end
