@@ -28,10 +28,8 @@ def find_the_cheese(arr)
      ary << i
      break
      else
-     return nil
+     ary << nil
      end
   end
-  if !nil
-    reutrn  ary.join()
-  end
+ary.join
   end
