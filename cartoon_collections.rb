@@ -36,4 +36,5 @@ def find_the_cheese(arr)
       elsif ary.length == 0
         nil
         end
+        nil
   end
