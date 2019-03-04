@@ -26,6 +26,7 @@ def find_the_cheese(arr)
 arr.each do |i|
   if i.include?([cheese_types])
     puts i.to_s
+    break
   else
     puts nil
   end
