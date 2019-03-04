@@ -24,12 +24,6 @@ def find_the_cheese(arr)
   cheese_types = ["cheddar", "gouda", "camembert"]
 
 arr.each do |i|
-  if i.include?([cheese_types])
-    puts i.to_s
-    break
-  elsif !i.include?([cheese_types])
-    puts nil
-  end
-end
+  
 
 end
