@@ -31,7 +31,7 @@ def find_the_cheese(arr)
      return nil
      end
   end
-  if !nil 
+  if !nil
     reutrn  ary.join()
   end
   end
