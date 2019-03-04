@@ -14,7 +14,7 @@ array
 end
 
 def long_planeteer_calls(arr)
-  
+
   # Your code here
 end
 
