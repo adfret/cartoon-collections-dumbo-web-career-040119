@@ -32,7 +32,7 @@ def find_the_cheese(arr)
      end
   end
   if ary == nil
- nil
+ puts nil
 else
    ary.join
 end
