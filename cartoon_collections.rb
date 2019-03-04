@@ -34,6 +34,6 @@ def find_the_cheese(arr)
   if ary.include?(nil)
  puts nil
 else
-   ary.join
+  puts ary.join
 end
   end
