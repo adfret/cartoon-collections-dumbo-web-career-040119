@@ -26,8 +26,8 @@ def find_the_cheese(arr)
   arr.each do |i|
   if array.include?(i)
      ary << i
-     break 
-     else 
+     break
+     else
      return nil
      end
   end
