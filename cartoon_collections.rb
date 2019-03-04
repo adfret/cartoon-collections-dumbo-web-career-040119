@@ -13,7 +13,8 @@ array << "#{i.capitalize}!"
 array
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(arr)
+  
   # Your code here
 end
 
