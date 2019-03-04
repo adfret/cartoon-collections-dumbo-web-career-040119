@@ -31,5 +31,5 @@ def find_the_cheese(arr)
      return nil
      end
   end
-  ary.join()
+  puts ary.join()
   end
