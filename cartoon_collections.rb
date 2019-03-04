@@ -31,7 +31,5 @@ def find_the_cheese(arr)
      ary << nil
      end
   end
-  if ary.length == 1  and !ary.include?(nil)
         ary.join
-        end
   end
