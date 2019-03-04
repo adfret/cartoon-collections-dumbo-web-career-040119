@@ -25,10 +25,10 @@ def find_the_cheese(arr)
   ary = []
   arr.each do |i|
   if array.include?(i)
-     ary << i
+     ary == i
      break
      else
-     ary << nil
+     ary = nil
      end
   end
         ary.join
